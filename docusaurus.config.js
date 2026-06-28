@@ -49,6 +49,12 @@ const config = {
           trackingID: 'G-W5TRKG731E',
           anonymizeIP: true,
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
       }),
     ],
   ],
@@ -57,6 +63,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       image: 'img/docusaurus-social-card.jpg',
+      metadata: [
+        {name: 'keywords', content: 'java course, learn java, java programming, java tutorial, spring boot, coding life'},
+        {name: 'twitter:card', content: 'summary_large_image'},
+      ],
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
