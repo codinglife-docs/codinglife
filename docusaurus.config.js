@@ -1,5 +1,5 @@
 // @ts-check
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -16,13 +16,11 @@ const config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
 
-  // Update this when deploying to GitHub Pages
-  url: 'https://Raheem047.github.io',
-  baseUrl: '/coding-life/',
+  url: 'https://codinglife-docs.github.io',
+  baseUrl: '/codinglife/',
 
-  // Update organizationName and projectName when pushing to GitHub Pages
-  organizationName: 'Raheem047',
-  projectName: 'coding-life',
+  organizationName: 'codinglife-docs',
+  projectName: 'codinglife',
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
