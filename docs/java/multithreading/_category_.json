@@ -1,0 +1,11 @@
+{
+  "label": "🧵 Multithreading",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "/java/multithreading",
+    "description": "Learn concurrent programming: Threads, Runnables, synchronization, and race conditions."
+  }
+}

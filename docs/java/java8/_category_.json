@@ -1,0 +1,11 @@
+{
+  "label": "🎓 Phase 4 - Java 8+ Modern Java",
+  "position": 8,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "/java/java8",
+    "description": "Learn modern Java features: Lambdas, Streams, Optional class, Sealed Classes, and Records."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "label": "🎓 Interview Preparation",
+  "position": 14,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "/java/interview",
+    "description": "Prepare for technical interviews with top Java Q&As."
+  }
+}

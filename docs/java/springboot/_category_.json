@@ -1,0 +1,11 @@
+{
+  "label": "🌱 Phase 8 - Spring Boot",
+  "position": 12,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "/java/springboot",
+    "description": "Build backend APIs with Spring Boot, Spring Data JPA, and Spring Security."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "label": "🧩 Phase 7 - Design Patterns",
+  "position": 11,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "/java/design-patterns",
+    "description": "Learn design patterns: Singleton, Factory, and Builder pattern."
+  }
+}

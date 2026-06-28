@@ -1,0 +1,11 @@
+{
+  "label": "🎓 Phase 2 - Object-Oriented Programming",
+  "position": 2,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "/java/oop",
+    "description": "Master Object-Oriented Programming (OOP) in Java: Classes, inheritance, polymorphism, and abstraction."
+  }
+}

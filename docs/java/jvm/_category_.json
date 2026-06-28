@@ -1,0 +1,11 @@
+{
+  "label": "⚙️ JVM Internals",
+  "position": 9,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "/java/jvm",
+    "description": "Dive deep into the JVM: ClassLoader, Memory Areas, Garbage Collection, and JVM Tuning."
+  }
+}

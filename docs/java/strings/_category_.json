@@ -1,0 +1,11 @@
+{
+  "label": "💬 Phase 3A - Strings",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "slug": "/java/strings",
+    "description": "Learn the String class, String pool, mutability, StringBuilder, and StringBuffer."
+  }
+}
