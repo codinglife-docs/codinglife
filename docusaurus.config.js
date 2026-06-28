@@ -16,8 +16,8 @@ const config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
 
-  url: 'https://codinglife-docs.github.io',
-  baseUrl: '/codinglife/',
+  url: "https://codinglife.in",
+  baseUrl: "/",
 
   organizationName: 'codinglife-docs',
   projectName: 'codinglife',
